@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.png" alt="Niptao — Your AI website agency" width="100%" />
+  <img src="./banner.png" alt="Niptao — Your AI website agency" width="100%" />
 
   <h3>Your AI website agency. No dashboard, ever.</h3>
 
